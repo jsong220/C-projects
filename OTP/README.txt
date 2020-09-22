@@ -3,3 +3,4 @@ To run program:
 2. ./compileall
 
 Encrypts and decrypts based on one time pad principles. 
+Can use plaintext files provided as examples.
